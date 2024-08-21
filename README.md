@@ -1,2 +1,3 @@
 # PokeSearch
- Search for a pokemon's information using their name
+
+**PokeSearch** is a simple tool to look up Pokemon information using their name.
